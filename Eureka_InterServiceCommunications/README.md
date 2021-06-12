@@ -1,6 +1,6 @@
 # SpringBootTutorials
 
-This consists of a Eureka Server (Micro Service), A domain Microservice (Microservice 1) and a CRUD Microservice (Microservice 2)
+This consists of an Eureka Server (Micro Service), A domain Microservice (Microservice 1) and a CRUD Microservice (Microservice 2)
 
 Worklog : - 
 1. Building an Eureka Service Discovery Microservice
